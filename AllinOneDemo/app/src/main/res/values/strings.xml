@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AllinOneDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_call_logs">callLogs</string>
+    <string name="title_activity_jsontype">jsontype</string>
+    <string name="title_activity_webview">webview</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sendcntgmail">sendcntgmail</string>
+</resources>

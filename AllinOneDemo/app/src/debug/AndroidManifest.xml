@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+<application>
+    <activity android:name="com.patel.ravin.com.allinonedemo.mapsLocation" android:label="@string/title_activity_maps_location"></activity>
+</application>
+
+</manifest>
